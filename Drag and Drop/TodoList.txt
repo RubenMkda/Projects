@@ -1,0 +1,12 @@
+1) Detectar si se puede matar a un enemigo
+    - falta nada mas el de los blancos y terminanos con la logica de ataque basico
+
+2) Hacer el movimiento de las demas piezas
+    - Tower, alfin, caballo, Reina
+    - Rey
+
+3) detectar si el rey esta en jaque Mate
+
+4) Promocion de peon
+
+5) Hacer un array donde se colocaran las fichas que van saliendo del juego
